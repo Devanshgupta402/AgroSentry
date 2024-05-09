@@ -113,5 +113,6 @@ def pesticides_info():
     st.title("Pesticides Information")
     st.write("This is the pesticides information page.")
 
-if __ name__ == "main":
+
+if __name__ == "main":
     main()
